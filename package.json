@@ -1,0 +1,12 @@
+{
+  "name": "hot-keys",
+  "version": "1.0.0",
+  "description": "- Select Views Manu+Command palette or use the folling shortcut commands\r   Windows:hotkeys:**Ctrl+Shift+P**\r ### 2-It opens the command pelette and types Terminal:Select in the search box and selects the ***Terminal:Select Defualt Profile*** option.\r ### 3-Selecting the *Terminal: Select Defualt* Profile, shows one more window\r ### 4-It shows a list of all terminals and changes it to the terminal .\r **Changed to Command Prompt**\r Here onwards,opening a new terminal uses Command Prompt instead of Powershell.",
+  "main": "index.js",
+  "type":"module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Muhammad javed",
+  "license": "MIT"
+}
